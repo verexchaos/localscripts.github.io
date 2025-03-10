@@ -165,6 +165,20 @@
         "lastEditedByImage": "assets/unverified.png"
     },
      {
+        "name": "Venex",
+        "pros": ["Auto Updating system, 52% sUNC, Free and Keyless, "],
+        "neutral": ["Frequent crashes, Early Beta"],
+        "cons": [],
+        "link": "https://discord.gg/PM9T9xyvpS",
+        "buttonText": "Website",
+        "types": ["windows"],
+        "lastEditedBy": "365",
+        "lastEditedByImage": "assets/unverified.png",
+        "warning": false,
+        "glow": "#FFFFFF",
+        "glowTextHoverColor": "#000000"
+    },
+     {
         "name": "Swift",
         "pros": ["Has a decompiler", "97% sUNC [96% UNC]", "Level 8"],
         "neutral": ["Expect crashes"],
@@ -420,5 +434,6 @@
         "lastEditedBy": "Mr. Ratter",
         "lastEditedByImage": "assets/unverified.png",
         "warning": true
-    }
+    },
+    
 ]
